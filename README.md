@@ -22,4 +22,4 @@
 
 #### More about me:
 - 🌱 I’m currently learning React and React Native.
-- 📫 Reach me: <a target="_black" href="https://www.linkedin.com/in/gabrielsb"><img align="center" height="20" src="./icons/linkedin.png" alt="LinkedIn" /></a>
+- 📫 Reach me: <a target="_blank" href="https://www.linkedin.com/in/gabrielsb"><img align="center" height="20" src="./icons/linkedin.png" alt="LinkedIn" /></a>
