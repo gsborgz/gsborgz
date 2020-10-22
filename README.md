@@ -6,18 +6,18 @@
 
 <p float="left">
 <img height="25" src="./icons/javascript.png" alt="JavaScript" title="JavaScript" />
-<img height="25" src="./icons/java.png" alt="Java" />
-<img height="25" src="./icons/php.png" alt="PHP" />
-<img height="25" src="./icons/typescript.png" alt="TypeScript" />
-<img height="25" src="./icons/nodejs.png" alt="Node.js" />
-<img height="25" src="./icons/vue.png" alt="Vue" />
-<img height="25" src="./icons/nuxt.png" alt="Nuxt" />
-<img height="25" src="./icons/vuetify.png" alt="Vuetify" />
-<img height="25" src="./icons/react.png" alt="React and React Native" />
-<img height="25" src="./icons/mysql.png" alt="MySql" />
-<img height="25" src="./icons/postgresql.png" alt="PostgreSQL" />
-<img height="25" src="./icons/mongodb.png" alt="MongoDB" />
-<img height="25" src="./icons/git.png" alt="Git" />
+<img height="25" src="./icons/java.png" alt="Java" title="Java" />
+<img height="25" src="./icons/php.png" alt="PHP" title="PHP" />
+<img height="25" src="./icons/typescript.png" alt="TypeScript" title="TypeScript" />
+<img height="25" src="./icons/nodejs.png" alt="Node.js" title="Node.js" />
+<img height="25" src="./icons/vue.png" alt="Vue.js" title="Vue.js" />
+<img height="25" src="./icons/nuxt.png" alt="Nuxt.js" title="Nuxt.js" />
+<img height="25" src="./icons/vuetify.png" alt="Vuetify" title="Vuetify" />
+<img height="25" src="./icons/react.png" alt="React and React Native" title="React and React Native" />
+<img height="25" src="./icons/mysql.png" alt="MySQL" title="MySQL" />
+<img height="25" src="./icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL" />
+<img height="25" src="./icons/mongodb.png" alt="MongoDB" title="MongoDB" />
+<img height="25" src="./icons/git.png" alt="Git" title="Git" />
 </p>
 
 #### More about me:
