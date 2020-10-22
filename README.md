@@ -21,5 +21,5 @@
 </p>
 
 #### More about me:
-- 🌱 I’m currently learning React and React Native.
+- 🌱 I’m currently learning TypeScript, React and React Native.
 - 📫 Reach me: <a href="https://www.linkedin.com/in/gabrielsb" target="_blank"><img align="center" height="20" src="./icons/linkedin.png" alt="LinkedIn" /></a>
