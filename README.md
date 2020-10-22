@@ -5,7 +5,7 @@
 #### Languages, Tools and others:
 
 <p float="left">
-<img height="25" src="./icons/javascript.png" alt="JavaScript" />
+<img height="25" src="./icons/javascript.png" alt="JavaScript" title="JavaScript" />
 <img height="25" src="./icons/java.png" alt="Java" />
 <img height="25" src="./icons/php.png" alt="PHP" />
 <img height="25" src="./icons/typescript.png" alt="TypeScript" />
