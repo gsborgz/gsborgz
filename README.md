@@ -6,7 +6,6 @@
 
 <p float="left">
 <img height="25" src="./icons/javascript.png" alt="JavaScript" title="JavaScript" />
-<img height="25" src="./icons/java.png" alt="Java" title="Java" />
 <img height="25" src="./icons/php.png" alt="PHP" title="PHP" />
 <img height="25" src="./icons/typescript.png" alt="TypeScript" title="TypeScript" />
 <img height="25" src="./icons/nodejs.png" alt="Node.js" title="Node.js" />
@@ -17,7 +16,6 @@
 <img height="25" src="./icons/mysql.png" alt="MySQL" title="MySQL" />
 <img height="25" src="./icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL" />
 <img height="25" src="./icons/mongodb.png" alt="MongoDB" title="MongoDB" />
-<img height="25" src="./icons/git.png" alt="Git" title="Git" />
 </p>
 
 #### More about me:
