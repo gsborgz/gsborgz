@@ -6,7 +6,6 @@
 
 <p float="left">
 <img height="25" src="./icons/javascript.png" alt="JavaScript" title="JavaScript" />
-<img height="25" src="./icons/php.png" alt="PHP" title="PHP" />
 <img height="25" src="./icons/typescript.png" alt="TypeScript" title="TypeScript" />
 <img height="25" src="./icons/nodejs.png" alt="Node.js" title="Node.js" />
 <img height="25" src="./icons/vue.png" alt="Vue.js" title="Vue.js" />
