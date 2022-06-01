@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  
+## Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  
 
 <img title="Gabriel Borges's GitHub Stats" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=gabrielSBorges&show_icons=true&theme=dracula" /> 
 
