@@ -10,7 +10,3 @@
 <img height="25" src="./images/postgres.png" alt="PostgreSQL" title="PostgreSQL" />
 <img height="25" src="./images/mongodb.png" alt="MongoDB" title="MongoDB" />
 </p>
-
----
-
-##### Reach me: <a href="https://www.linkedin.com/in/gsborgz" target="_blank"><img align="center" height="20" src="./images/linkedin.png" alt="LinkedIn" /></a> | <a href="https://www.borgez.com.br/" target="_blank">My website (WIP)</a>
